@@ -16,4 +16,4 @@ git pull - fetch remote repo and merge changes with local repo
 ## How to diff 
 
 # Applications
-[my-app](./my-app/README.MD)
+[my-app](my-app/README.md)
